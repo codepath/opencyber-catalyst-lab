@@ -37,3 +37,9 @@ In Parts 1–3 you'll work primarily in your web browser:
 - External IOC lookup tools - [VirusTotal](https://www.virustotal.com/) and [AbuseIPDB](https://www.abuseipdb.com/) - for researching indicators
 
 Incident data persists across container restarts in a named Docker volume, so you can pick a case back up where you left off.
+
+## License
+
+The code in this repo (Dockerfile, Makefile, scripts, configuration) is licensed under the **Apache License 2.0**. The lab instructions and other teaching material are licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
+
+You are free to use, adapt, and run this lab in your own courses, including commercially, as long as you credit CodePath and indicate what you changed. See [LICENSE](./LICENSE) for the terms that govern.
